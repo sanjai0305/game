@@ -1,0 +1,16 @@
+{
+  "high_score": 150,
+  "total_kills": 15,
+  "total_playtime": 0,
+  "unlocked_ships": [
+    "default"
+  ],
+  "upgrades": {
+    "damage": 0,
+    "speed": 0,
+    "fire_rate": 0,
+    "health": 0,
+    "shield": 0
+  },
+  "coins": 11
+}
